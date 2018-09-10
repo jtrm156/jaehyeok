@@ -1,5 +1,6 @@
-<html>
+<html>	
 <head>
+<title>깃 스터디입니다.</title>
 </head>
 <body>
 <ul>
