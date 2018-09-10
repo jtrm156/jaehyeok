@@ -1,6 +1,6 @@
 <html>	
 <head>
-<title>깃 스터디입니다.</title>
+<title>팀원 1이 수정한 내용입니다.</title>
 </head>
 <body>
 <ul>
@@ -10,6 +10,7 @@
 <li>commit3</li>
 <li>실험적인 일 추가</li>
 <li>원격저장소에 푸쉬</li>
+<li>
 </ul>
 </body>
 </html>
