@@ -1,5 +1,9 @@
 <html>
+<head>
+</head>
+<body>
 <ul>
-<li>╠Й ╫╨ем╣П</li>
+<li>╠Й╫╨ем╣П</li>
 </ul>
+</body>
 </html>
