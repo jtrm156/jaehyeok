@@ -1,2 +1,5 @@
-<j
-<aaa>
+<html>
+<ul>
+<li>╠Й ╫╨ем╣П</li>
+</ul>
+</html>
