@@ -10,7 +10,7 @@
 <li>commit3</li>
 <li>실험적인 일 추가</li>
 <li>원격저장소에 푸쉬</li>
-<li>
+<li>팀원 1추가</li>
 </ul>
 </body>
 </html>
